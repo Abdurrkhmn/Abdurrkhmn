@@ -1,4 +1,3 @@
-# profile
 <h1 align="center">Hi 👋, I'm Abdurrahman</h1>
 <h3 align="center">Currently Im studyng in Digital Economy</h3>
 
