@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rahmanabdur2511@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/abdurrkhmn](https://linkedin.com/in/abdurrkhmn)
+- 📄 Know about my experiences [linkedin.com/in/abdurrkhmn](https://www.youtube.com/c/abdurrakhman))
 
 - ⚡ Fun fact **I'm fast learner** 
 
