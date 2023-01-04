@@ -1,6 +1,6 @@
 <h1 align="center">Salam Hi 👋, I'm Abdurrahman</h1>
-<h3 align="center">Currently Iam studyng in <a href="https://kpfu.ru/">Kazan Federal University, Russia</a>. specialist in digital economy</h3>
-<a href="url">link text</a>
+<h3 align="center">Currently I'm studyng in <a href="https://kpfu.ru/">Kazan Federal University, Russia</a>. specialist in digital economy</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrkhmn&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrkhmn" /> </p>
 
 - 🌱 I’m currently learning **Python, Javascript, more**
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/abdurrkhmn](https://linkedin.com/in/abdurrkhmn)
 
-- ⚡ Fun fact **I'm fast learner**
+- ⚡ Fun fact **I'm fast learner** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
