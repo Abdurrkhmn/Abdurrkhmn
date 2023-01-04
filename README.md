@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdurrahman</h1>
-<h3 align="center">Currently Iam studyng in Kazan Federal University specialist in digital economy</h3>
+<h3 align="center">Currently Iam studyng in <a href="https://kpfu.ru/">Kazan Federal University, Russia</a>, specialist in digital economy</h3>
+<a href="url">link text</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrkhmn&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrkhmn" /> </p>
 
