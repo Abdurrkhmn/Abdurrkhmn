@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript, more**
 
-- 👨‍💻 All of my projects are available at[github.com/Abdurrkhmn](https://github.com/Abdurrkhmn)
+- 👨‍💻 All of my projects are available at [github.com/Abdurrkhmn](https://github.com/Abdurrkhmn)
 
 - 💬 Ask me about **oop solid**
 
