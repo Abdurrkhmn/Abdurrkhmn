@@ -1,5 +1,5 @@
 <h1 align="center">Salam, Hello, Привет!
- 👋, I'm Abdurrahman</h1>
+ 👋 I'm Abdurrahman</h1>
 <h3 align="center">Currently I'm studyng in <a href="https://kpfu.ru/">Kazan Federal University,</a>. in Economy and information technology additional education in «Цифровые кафедры» hold in<a href="https://innopolis.university/en/"> Innopolis university</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrkhmn&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrkhmn" /> </p>
