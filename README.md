@@ -1,12 +1,12 @@
 <h1 align="center">Salam, Hello, Привет!
  👋 I'm Abdurrahman</h1>
-<h3 align="center">I'm Fresh Graduate with bachelor of economics have been experiencing 4 year on organization and and two years in information technology while majoring in digital economy I selected to participate in the digital department at Campus and do project with programming languages such as Python, Javascript, PHP  </h3>
+<h3 align="center">I'm Fresh Graduate with bachelor of economics have been experiencing 4 year on organization and and two years in information technology while majoring in digital economy I selected to participate in the digital department at Campus and have been doing any project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrkhmn&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrkhmn" /> </p>
 
 - 🌱 I’m currently learning **Python, Javascript, more**
 
-- 👨‍💻 All of my projects are available at [github.com/Abdurrkhmn](https://github.com/Abdurrkhmn)
+- 👨‍💻 All of my coding projects are available at [github.com/Abdurrkhmn](https://github.com/Abdurrkhmn)
 
 - 💬 Ask me about **oop solid**
 
