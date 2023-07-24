@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rahmanabdur2511@gmail.com**
 
-- 📄 Know about my daily vlog [https://www.youtube.com/c/abdurrakhman](https://www.youtube.com/c/abdurrakhman)
+- 📄 I make Youtube hehe [https://www.youtube.com/c/abdurrakhman](https://www.youtube.com/c/abdurrakhman)
 
 - ⚡ Fun fact **I'm fast learner** 
 
