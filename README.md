@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrkhmn&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrkhmn" /> </p>
 
-- 🌱 I have been learning **Fullstack web depeloper, now focus on Mobile Developer**
+- 🌱 I have been learning **Fullstack web depeloper, now focus on Data & Mobile Developer**
 
 - 👨‍💻 All of my coding projects are available at [github.com/Abdurrkhmn](https://github.com/Abdurrkhmn)
 
