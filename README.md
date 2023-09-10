@@ -1,6 +1,5 @@
-<h1 align="center">Salam, Hello, Привет!
- 👋 I'm Abdurrahman</h1>
-<h3 align="center">I'm Fresh Graduate with bachelor of economics have been experiencing 4 year on organization and two years in information technology while majoring in digital economy I selected to participate in the digital department at Campus and have been doing any project</h3>
+<h1 align="center">Hi. I speak many languages. My name is👋 Abdurrahman</h1>
+<h3 align="center">I believe with my background in Economics and my interested in ICT will make me a problem solver in the financial technology field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrkhmn&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrkhmn" /> </p>
 
