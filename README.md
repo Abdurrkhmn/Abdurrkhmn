@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I speak many languages. My name is👋 Abdur Rakhman (Abdurrahman) </h1>
-<h3 align="center">I combine elements my background in Economics and my interested in ICT will make me a problem solver in the financial technology field</h3>
+<h3 align="center"> with the combine elements my background in Economics and my interested in ICT will make me a problem solver in the financial technology field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrkhmn&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrkhmn" /> </p>
 
