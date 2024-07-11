@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my coding projects are available at [github.com/Abdurrkhmn](https://github.com/Abdurrkhmn)
 
-- 💬 Ask me about **oop solid**
+- 💬 Ask me about ** quantitative method, programing**
 
-- 📫 How to reach me **rahmanabdur2511@gmail.com**
+- 📫 How to reach me **abdurrahman.econ@gmail.com**
 
 - 📄 I make Youtube hehe [https://www.youtube.com/c/abdurrakhman](https://www.youtube.com/c/abdurrakhman)
 
