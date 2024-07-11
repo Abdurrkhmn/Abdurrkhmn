@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **quantitative method, programming**
 
-- 📫 How to reach me **rahmanabdur2511@gmail.com**
+- 📫 How to reach me **Abdurrahman.econ@gmail.com**
 
 - 📄 I make Youtube hehe [https://www.youtube.com/c/abdurrakhman](https://www.youtube.com/c/abdurrakhman)
 
