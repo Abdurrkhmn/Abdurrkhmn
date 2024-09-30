@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my coding projects are available at [github.com/Abdurrkhmn](https://github.com/Abdurrkhmn)
 
-- 💬 Ask me about **quantitative method, programming**
+- 💬 Ask me about **Economy, Finance, Technology**
 
 - 📫 How to reach me **Abdurrahman.econ@gmail.com**
 
