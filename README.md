@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Economy, Finance, Technology**
 
-- 📫 How to reach me **Abdurrahman.econ@gmail.com**
+- 📫 How to reach me **Abdurrahman@student.uclouvain.be**
 
 - 📄 I make Youtube hehe [https://www.youtube.com/c/abdurrakhman](https://www.youtube.com/c/abdurrakhman)
 
