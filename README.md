@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrkhmn&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrkhmn" /> </p>
 
-- 🌱 I am master students, and I have been learning **Fullstack web depeloper and Apps developer, currently I want to enhance in Data fields**
+- 🌱 I am master student, I am a bit experienced as a developer, Now **I am particularly fascinated by Statistics and Econometrics program presently🤑** 
 
 - 👨‍💻 All of my coding projects are available at [github.com/Abdurrkhmn](https://github.com/Abdurrkhmn)
 
