@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrkhmn&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrkhmn" /> </p>
 
-- 🌱 I am Master student in Econ, I am a bit experienced as a developer, Recently **I am particularly fascinated by Statistics and Econometrics program🤑!** 
+- 🌱 I am Master student in Econ, I am a bit experienced as a developer, Recently **I have become particularly fascinated by the application of AI in Statistics and Econometrics🤑!** 
 
 - 👨‍💻 All of my coding projects are available at [github.com/Abdurrkhmn](https://github.com/Abdurrkhmn)
 
