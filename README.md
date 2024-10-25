@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my coding projects are available at [github.com/Abdurrkhmn](https://github.com/Abdurrkhmn)
 
-- 💬 Ask me about **Economy, Finance, Technology**
+- 💬 My interest are **Economy, Finance, Technology**
 
 - 📫 How to reach me **Abdurrahman@student.uclouvain.be**
 
