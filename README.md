@@ -1,5 +1,5 @@
 <h1 align="center">Hi! My name is👋 Abdurrahman (Abdur Rakhman) </h1>
-<h3 align="center"> Coding just for fun</h3>
+<h3 align="center"> Coding just for fun when feeling bored</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrkhmn&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrkhmn" /> </p>
 
